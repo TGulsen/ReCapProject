@@ -19,7 +19,7 @@
 
 <h1 align="center"> Proje Detayları | Project Details  </h1>
 <h1 > :small_red_triangle_down: Katmanlar | Layers : <br> </h1> <br>
-N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bussiness, DataAccess, Core ve Kullanıcı arayüzü katmanlarından oluşmaktadır.
+N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bussiness, DataAccess, Core ve Web API katmanlarından oluşmaktadır.
 
 <h2 >  :round_pushpin: Entities Layer <br> </h2> <br> 
 
@@ -29,7 +29,7 @@ N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bus
 
 <h2 >  :round_pushpin: DataAccess Layer <br> </h2> <br> 
 
-
+<h2 >  :round_pushpin: Web API <br> </h2> <br> 
 
 
 
