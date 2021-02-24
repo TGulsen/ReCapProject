@@ -12,18 +12,26 @@ namespace Program
             CarManager carmanager = new CarManager(new EfCarDal());
 
 
-            var result = carmanager.GetCarDetails();
-            if (result.Success==true)
+            var result = carmanager.GetCarsByDailyPrice(150000, 4000000);
+            foreach (var item in result.Data)
             {
-                foreach (var item in result.Data)
-                {
-                    Console.WriteLine("Araba İsmi: " +item.CarName +"   Markası:" + item.BrandName +" Rengi: " + item.ColorName + " Günlük fiyat: " +item.DailyPrice);
-                }
+                Console.WriteLine(); 
+
             }
-            else
-            {
-                Console.WriteLine(result.Message);
-            }
+
+
+            
+            //if (result.Success==true)
+            //{
+            //    foreach (var item in result.Data)
+            //    {
+            //        Console.WriteLine("Araba İsmi: " +item.CarName +"   Markası:" + item.BrandName +" Rengi: " + item.ColorName + " Günlük fiyat: " +item.DailyPrice);
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine(result.Message);
+            //}
 
 
      
