@@ -14,7 +14,7 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(c => c.Name).MinimumLength(2);
             RuleFor(c => c.BrandId).NotEmpty();
             RuleFor(c => c.ColorId).NotNull();
-            RuleFor(c => c.Id).NotEmpty();
+        
             RuleFor(c => c.DailyPrice).GreaterThan(0);
             // BMW grubundaki araçların günlük fiyatları < 75
             RuleFor(c => c.DailyPrice).GreaterThan(75).When(c => c.BrandId == 2);

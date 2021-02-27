@@ -15,7 +15,7 @@ using Module = Autofac.Module;
 
 namespace Business.DependencyResolves.Autofac
 {
-    public class AutofacBusinessModule:Module
+    public class AutofacBusinessModule : Module
     {
         protected override void Load(ContainerBuilder builder)
         {
@@ -25,7 +25,7 @@ namespace Business.DependencyResolves.Autofac
             builder.RegisterType<BrandManager>().As<IBrandService>().SingleInstance();
             builder.RegisterType<EfBrandDal>().As<IBrandDal>().SingleInstance();
 
-            builder.RegisterType<ColorManager>().As<ICarService>().SingleInstance();
+            builder.RegisterType<ColorManager>().As<IColorService>().SingleInstance();
             builder.RegisterType<EfColorDal>().As<IColorDal>().SingleInstance();
 
             builder.RegisterType<CustomerManager>().As<ICustomerService>().SingleInstance();
@@ -34,7 +34,7 @@ namespace Business.DependencyResolves.Autofac
             builder.RegisterType<RentalManager>().As<IRentalService>().SingleInstance();
             builder.RegisterType<EfRentalDal>().As<IRentalDal>().SingleInstance();
 
-            builder.RegisterType<UserManager>().As<IRentalService>().SingleInstance();
+            builder.RegisterType<UserManager>().As<IUserService>().SingleInstance();
             builder.RegisterType<EfUserDal>().As<IUserDal>().SingleInstance();
 
 
@@ -45,7 +45,7 @@ namespace Business.DependencyResolves.Autofac
                 {
                     Selector = new AspectInterceptorSelector()
                 }).SingleInstance();
-        }
 
+        }
     }
 }
