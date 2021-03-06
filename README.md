@@ -31,13 +31,14 @@ N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bus
 
 <h2 >  :round_pushpin: Web API <br> </h2> <br> 
 Mevcut verilerimiz:                                            
-<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/not-deleted-table.JPG"  > </p>
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/current_table.JPG"  > </p>
 Postman silme işlemi:
-<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted.JPG" > </p>
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/deleted.JPG" > </p>
 Silme işleminden sonra veriler:
-<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted_table.JPG"> </p>
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/deleted_%C4%B1n_table.JPG"> </p>
+
 CarId=5 olan aracımızın herhangi bir resmi mevcut olmadığından proje resmi gösterilir:
-<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/defaultimage.JPG"> </p>
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/defaultimage.JPG"> </p>
 
 
 
