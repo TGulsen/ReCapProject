@@ -13,7 +13,7 @@
 </div>
 
 <br /> 
-<p align="center"> <img src="https://github.com/TGulsen/ReCapProject/blob/master/rental.jpg" width="600" height="400"> </p>
+<p align="center"> <img src="https://github.com/TGulsen/ReCapProject/blob/master/defaultImage.jpg" width="600" height="400"> </p>
 
 - [Görüş ve önerileriniz için | For your request: ](https://github.com/TGulsen) 
 
