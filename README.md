@@ -35,7 +35,9 @@ Mevcut verilerimiz:
 Postman silme işlemi:
 <p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted.JPG" > </p>
 Silme işleminden sonra veriler:
-<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted_table.JPG"  > </p>
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted_table.JPG"> </p>
+CarId=5 olan aracımızın herhangi bir resmi mevcut olmadığından proje resmi gösterilir:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/defaultimage.JPG"> </p>
 
 
 
