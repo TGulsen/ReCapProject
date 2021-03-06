@@ -30,6 +30,12 @@ N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bus
 <h2 >  :round_pushpin: DataAccess Layer <br> </h2> <br> 
 
 <h2 >  :round_pushpin: Web API <br> </h2> <br> 
+Mevcut verilerimiz:                                            
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/not-deleted-table.JPG"  > </p>
+Postman silme işlemi:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted.JPG" > </p>
+Silme işleminden sonra veriler:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/github-postman-images/deleted_table.JPG"  > </p>
 
 
 
