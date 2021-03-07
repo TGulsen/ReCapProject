@@ -13,7 +13,7 @@
 </div>
 
 <br /> 
-<p align="center"> <img src="https://github.com/TGulsen/ReCapProject/blob/master/rental.jpg" width="600" height="400"> </p>
+<p align="center"> <img src="https://github.com/TGulsen/ReCapProject/blob/master/defaultImage.jpg" width="600" height="400"> </p>
 
 - [Görüş ve önerileriniz için | For your request: ](https://github.com/TGulsen) 
 
@@ -30,6 +30,16 @@ N-Katmanlı mimari yapısı ile tasarlanan Araç Kiralama projesi; Entities, Bus
 <h2 >  :round_pushpin: DataAccess Layer <br> </h2> <br> 
 
 <h2 >  :round_pushpin: Web API <br> </h2> <br> 
+Mevcut verilerimiz:                                            
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/current_table.JPG"  > </p>
+Postman silme işlemi:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/deleted.JPG" > </p>
+Silme işleminden sonra veriler:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/deleted_%C4%B1n_table.JPG"> </p>
+
+CarId=5 olan aracımızın herhangi bir resmi mevcut olmadığından proje resmi gösterilir:
+<p> <img src="https://github.com/TGulsen/ReCapProject/blob/master/Postman_Images/defaultimage.JPG"> </p>
+
 
 
 
