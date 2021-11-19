@@ -1,6 +1,4 @@
 <h1 align="center"> ReCapProject :blue_car:  :car: </h1>
-
-<div align="center"> <strong> Bu proje Yazılım Geliştirici Yetiştirme Kampı'ndaki ödev çalışmasına binaen oluşturulmuştur.<strong> <br> </div> 
  
 <div align="center"> This repo have builded during Software Developer Camp. |kodlama.io by Engin Demirog  :star: <br> </div> 
 
