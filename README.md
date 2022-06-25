@@ -1,6 +1,6 @@
-<h1 align="center"> ReCapProject :blue_car:  :car: </h1>
+<h3 align="center"> ReCapProject :car: </h3>
  
-<div align="center"> This repo have builded during Software Developer Camp. |kodlama.io by Engin Demirog  :star: <br> </div> 
+<div align="center"> <sub> This repo has built in Software Developer Camp. |kodlama.io  </sub> <br> </div> 
 
 
 <div align="center">
@@ -12,8 +12,6 @@
 
 <br /> 
 <p align="center"> <img src="https://github.com/TGulsen/ReCapProject/blob/master/defaultImage.jpg" width="600" height="400"> </p>
-
-- [For your request: ](https://github.com/TGulsen) 
 
 
 
